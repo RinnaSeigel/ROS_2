@@ -1,0 +1,20 @@
+[0.675s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps symlink_data
+[0.957s] running develop
+[1.142s] running egg_info
+[1.142s] writing examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[1.143s] writing dependency_links to examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[1.143s] writing entry points to examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[1.143s] writing requirements to examples_rclpy_minimal_action_client.egg-info/requires.txt
+[1.143s] writing top-level names to examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[1.146s] reading manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.147s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.148s] running build_ext
+[1.148s] Creating /home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples-rclpy-minimal-action-client.egg-link (link to .)
+[1.149s] Installing client script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.149s] Installing client_asyncio script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.149s] Installing client_cancel script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.150s] Installing client_not_composable script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.150s] 
+[1.150s] Installed /home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client
+[1.150s] running symlink_data
+[1.203s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client' returned '0': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rinna/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps symlink_data

@@ -1,0 +1,4 @@
+source;share/Rinna/local_setup.bash
+source;share/Rinna/local_setup.dsv
+source;share/Rinna/local_setup.sh
+source;share/Rinna/local_setup.zsh

@@ -1,0 +1,15 @@
+/home/rinna/ros2_ws/install/Rinna/share/ament_index/resource_index/package_run_dependencies/Rinna
+/home/rinna/ros2_ws/install/Rinna/share/ament_index/resource_index/parent_prefix_path/Rinna
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/ament_prefix_path.sh
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/ament_prefix_path.dsv
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/path.sh
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/path.dsv
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.bash
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.sh
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.zsh
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.dsv
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/package.dsv
+/home/rinna/ros2_ws/install/Rinna/share/ament_index/resource_index/packages/Rinna
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/cmake/RinnaConfig.cmake
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/cmake/RinnaConfig-version.cmake
+/home/rinna/ros2_ws/install/Rinna/share/Rinna/package.xml

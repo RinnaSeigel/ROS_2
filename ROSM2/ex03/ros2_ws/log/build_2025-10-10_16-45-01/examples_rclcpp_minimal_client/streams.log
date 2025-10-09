@@ -1,0 +1,25 @@
+[0.011s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_client -- -j16 -l16
+[0.090s] [ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[4.062s] [100%] [32m[1mLinking CXX executable client_main[0m
+[4.342s] [100%] Built target client_main
+[4.363s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_client -- -j16 -l16
+[4.367s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_minimal_client
+[4.377s] -- Install configuration: ""
+[4.378s] -- Execute custom install script
+[4.380s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/lib/examples_rclcpp_minimal_client/client_main
+[4.394s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_client
+[4.408s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_client
+[4.422s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.sh
+[4.437s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.dsv
+[4.450s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.sh
+[4.466s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.dsv
+[4.478s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.bash
+[4.494s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.sh
+[4.507s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.zsh
+[4.520s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.dsv
+[4.536s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.dsv
+[4.551s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_client
+[4.565s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig.cmake
+[4.578s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig-version.cmake
+[4.593s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.xml
+[4.609s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_minimal_client

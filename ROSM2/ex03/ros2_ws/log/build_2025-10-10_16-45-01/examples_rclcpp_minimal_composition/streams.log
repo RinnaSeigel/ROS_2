@@ -1,0 +1,40 @@
+[0.012s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition -- -j16 -l16
+[0.081s] [35m[1mConsolidate compiler generated dependencies of target composition_nodes[0m
+[0.105s] [ 11%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o[0m
+[9.453s] [ 22%] [32m[1mLinking CXX shared library libcomposition_nodes.so[0m
+[9.993s] [ 33%] Built target composition_nodes
+[10.033s] [ 55%] [32mBuilding CXX object CMakeFiles/composition_subscriber.dir/src/standalone_subscriber.cpp.o[0m
+[10.034s] [ 55%] [32mBuilding CXX object CMakeFiles/composition_composed.dir/src/composed.cpp.o[0m
+[10.034s] [ 66%] [32mBuilding CXX object CMakeFiles/composition_publisher.dir/src/standalone_publisher.cpp.o[0m
+[13.801s] [ 77%] [32m[1mLinking CXX executable composition_publisher[0m
+[13.850s] [ 88%] [32m[1mLinking CXX executable composition_subscriber[0m
+[13.966s] [100%] [32m[1mLinking CXX executable composition_composed[0m
+[14.135s] [100%] Built target composition_publisher
+[14.213s] [100%] Built target composition_subscriber
+[14.323s] [100%] Built target composition_composed
+[14.344s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition -- -j16 -l16
+[14.348s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition
+[14.359s] -- Install configuration: ""
+[14.360s] -- Execute custom install script
+[14.363s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.sh
+[14.375s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.dsv
+[14.390s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so
+[14.406s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher
+[14.419s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber
+[14.434s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed
+[14.451s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_composition
+[14.466s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_composition
+[14.479s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.sh
+[14.494s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.dsv
+[14.508s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.sh
+[14.522s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.dsv
+[14.536s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.bash
+[14.549s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.sh
+[14.561s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.zsh
+[14.576s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.dsv
+[14.591s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.dsv
+[14.605s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/packages/examples_rclcpp_minimal_composition
+[14.620s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig.cmake
+[14.634s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig-version.cmake
+[14.649s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.xml
+[14.664s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition

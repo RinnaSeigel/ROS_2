@@ -1,0 +1,25 @@
+[6.228s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rinna/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps symlink_data
+[112.308s] running develop
+[112.311s] running egg_info
+[112.311s] creating examples_rclpy_minimal_subscriber.egg-info
+[112.311s] writing examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[112.311s] writing dependency_links to examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[112.311s] writing entry points to examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[112.311s] writing requirements to examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[112.311s] writing top-level names to examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[112.312s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[112.312s] reading manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[112.312s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[112.312s] running build_ext
+[112.312s] Creating /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[112.312s] Installing subscriber_lambda script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[112.312s] Installing subscriber_member_function script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[112.312s] Installing subscriber_old_school script to /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[112.312s] 
+[112.313s] Installed /home/rinna/ros2_ws/build/examples_rclpy_minimal_subscriber
+[112.313s] running symlink_data
+[112.313s] creating /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index
+[112.313s] creating /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index
+[112.313s] creating /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[112.313s] symbolically linking /home/rinna/ros2_ws/build/examples_rclpy_minimal_subscriber/resource/examples_rclpy_minimal_subscriber -> /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[112.313s] symbolically linking /home/rinna/ros2_ws/build/examples_rclpy_minimal_subscriber/package.xml -> /home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber/share/examples_rclpy_minimal_subscriber

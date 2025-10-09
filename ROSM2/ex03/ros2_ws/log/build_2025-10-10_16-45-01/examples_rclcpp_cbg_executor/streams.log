@@ -1,0 +1,39 @@
+[0.025s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor -- -j16 -l16
+[0.173s] [35m[1mConsolidate compiler generated dependencies of target ping[0m
+[0.174s] [35m[1mConsolidate compiler generated dependencies of target pong[0m
+[0.174s] [35m[1mConsolidate compiler generated dependencies of target ping_pong[0m
+[0.202s] [ 10%] [32mBuilding CXX object CMakeFiles/ping.dir/src/ping.cpp.o[0m
+[0.209s] [ 20%] [32mBuilding CXX object CMakeFiles/pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[0.209s] [ 30%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[4.474s] [ 40%] [32m[1mLinking CXX executable ping[0m
+[5.019s] [ 50%] Built target ping
+[10.701s] [ 60%] [32m[1mLinking CXX executable pong[0m
+[10.734s] [ 70%] [32m[1mLinking CXX executable ping_pong[0m
+[11.232s] [ 80%] Built target pong
+[11.470s] [100%] Built target ping_pong
+[11.489s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor -- -j16 -l16
+[11.493s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor
+[11.503s] -- Install configuration: ""
+[11.504s] -- Execute custom install script
+[11.506s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping
+[11.519s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong
+[11.532s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong
+[11.551s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/ping_node.hpp
+[11.565s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/pong_node.hpp
+[11.581s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_cbg_executor
+[11.595s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_cbg_executor
+[11.611s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.sh
+[11.628s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.dsv
+[11.643s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.sh
+[11.657s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.dsv
+[11.672s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.bash
+[11.688s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.sh
+[11.701s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.zsh
+[11.713s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.dsv
+[11.725s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.dsv
+[11.738s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/packages/examples_rclcpp_cbg_executor
+[11.751s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.764s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig.cmake
+[11.777s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig-version.cmake
+[11.790s] -- Symlinking: /home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.xml
+[11.806s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor

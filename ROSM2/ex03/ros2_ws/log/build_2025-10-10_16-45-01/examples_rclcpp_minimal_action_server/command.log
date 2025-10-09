@@ -1,0 +1,4 @@
+Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j16 -l16
+Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j16 -l16
+Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server
+Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server

@@ -1,0 +1,57 @@
+[0.158s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/examples/rclcpp/composition/minimal_composition -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition
+[2.078s] -- The C compiler identification is GNU 11.4.0
+[2.079s] -- The CXX compiler identification is GNU 11.4.0
+[2.079s] -- Detecting C compiler ABI info
+[2.079s] -- Detecting C compiler ABI info - done
+[2.079s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.079s] -- Detecting C compile features
+[2.079s] -- Detecting C compile features - done
+[2.079s] -- Detecting CXX compiler ABI info
+[2.079s] -- Detecting CXX compiler ABI info - done
+[2.079s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.080s] -- Detecting CXX compile features
+[2.080s] -- Detecting CXX compile features - done
+[2.080s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.080s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.080s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.080s] -- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+[2.120s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.128s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.142s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.161s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.186s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.265s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.273s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.908s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.434s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.550s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.559s] -- Looking for pthread.h
+[4.689s] -- Looking for pthread.h - found
+[4.689s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.820s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.822s] -- Found Threads: TRUE  
+[4.890s] -- Found rclcpp_components: 16.0.15 (/opt/ros/humble/share/rclcpp_components/cmake)
+[4.946s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.066s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.072s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.072s] -- Configured cppcheck include dirs: /home/rinna/ros2_ws/src/examples/rclcpp/composition/minimal_composition/include
+[5.075s] -- Configured cppcheck exclude dirs and/or files: 
+[5.075s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.076s] -- Configured cpplint exclude dirs and/or files: 
+[5.076s] -- Added test 'lint_cmake' to check CMake code style
+[5.076s] -- Added test 'uncrustify' to check C / C++ code style
+[5.077s] -- Configured uncrustify additional arguments: 
+[5.080s] -- Added test 'xmllint' to check XML markup files
+[5.083s] -- Configuring done
+[5.142s] -- Generating done
+[5.144s] -- Build files have been written to: /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition
+[5.343s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/examples/rclcpp/composition/minimal_composition -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition
+[5.360s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition -- -j16 -l16
+[5.533s] [ 11%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o[0m
+[5.539s] [ 22%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/publisher_node.cpp.o[0m
+[36.498s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[36.523s] compilation terminated.
+[36.547s] gmake[2]: *** [CMakeFiles/composition_nodes.dir/build.make:90: CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o] Error 1
+[36.555s] gmake[2]: *** Waiting for unfinished jobs....
+[203.367s] gmake[1]: *** [CMakeFiles/Makefile2:143: CMakeFiles/composition_nodes.dir/all] Error 2
+[203.376s] gmake: *** [Makefile:146: all] Error 2

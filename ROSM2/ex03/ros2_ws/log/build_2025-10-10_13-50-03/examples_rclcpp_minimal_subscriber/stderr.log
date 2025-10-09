@@ -1,0 +1,18 @@
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/wait_set_subscriber_library.dir/build.make:76: CMakeFiles/wait_set_subscriber_library.dir/wait_set_subscriber.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/subscriber_member_function_with_topic_statistics.dir/build.make:76: CMakeFiles/subscriber_member_function_with_topic_statistics.dir/member_function_with_topic_statistics.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/subscriber_member_function_with_topic_statistics.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/build.make:76: CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:261: CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/all] Error 2
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+gmake[2]: *** [CMakeFiles/wait_set_subscriber_library.dir/build.make:90: CMakeFiles/wait_set_subscriber_library.dir/static_wait_set_subscriber.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:339: CMakeFiles/wait_set_subscriber_library.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

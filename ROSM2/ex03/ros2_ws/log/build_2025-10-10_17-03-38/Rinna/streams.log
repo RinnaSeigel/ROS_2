@@ -1,0 +1,43 @@
+[0.177s] Invoking command in '/home/rinna/ros2_ws/build/Rinna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rinna/ros2_ws/install/launch_testing_examples:/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/rinna/ros2_ws/install/examples_rclpy_minimal_service:/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_client:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions:/home/rinna/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/Rinna -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/Rinna
+[1.436s] -- The C compiler identification is GNU 11.4.0
+[1.436s] -- The CXX compiler identification is GNU 11.4.0
+[1.658s] -- Detecting C compiler ABI info
+[1.881s] -- Detecting C compiler ABI info - done
+[1.892s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.898s] -- Detecting C compile features
+[1.899s] -- Detecting C compile features - done
+[1.905s] -- Detecting CXX compiler ABI info
+[2.087s] -- Detecting CXX compiler ABI info - done
+[2.096s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.096s] -- Detecting CXX compile features
+[2.097s] -- Detecting CXX compile features - done
+[2.133s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.480s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.692s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.803s] WARNING: Package name "Rinna" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[2.902s] -- Added test 'lint_cmake' to check CMake code style
+[2.907s] -- Added test 'xmllint' to check XML markup files
+[2.913s] -- Configuring done
+[2.927s] -- Generating done
+[2.930s] -- Build files have been written to: /home/rinna/ros2_ws/build/Rinna
+[2.944s] Invoked command in '/home/rinna/ros2_ws/build/Rinna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rinna/ros2_ws/install/launch_testing_examples:/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/rinna/ros2_ws/install/examples_rclpy_minimal_service:/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_client:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions:/home/rinna/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/Rinna -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/Rinna
+[2.945s] Invoking command in '/home/rinna/ros2_ws/build/Rinna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rinna/ros2_ws/install/launch_testing_examples:/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/rinna/ros2_ws/install/examples_rclpy_minimal_service:/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_client:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions:/home/rinna/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/Rinna -- -j16 -l16
+[3.590s] Invoked command in '/home/rinna/ros2_ws/build/Rinna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rinna/ros2_ws/install/launch_testing_examples:/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/rinna/ros2_ws/install/examples_rclpy_minimal_service:/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_client:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions:/home/rinna/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/Rinna -- -j16 -l16
+[3.611s] Invoking command in '/home/rinna/ros2_ws/build/Rinna': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rinna/ros2_ws/install/launch_testing_examples:/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/rinna/ros2_ws/install/examples_rclpy_minimal_service:/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_client:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions:/home/rinna/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/Rinna
+[3.745s] -- Install configuration: ""
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/ament_index/resource_index/package_run_dependencies/Rinna
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/ament_index/resource_index/parent_prefix_path/Rinna
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/ament_prefix_path.sh
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/ament_prefix_path.dsv
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/path.sh
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/environment/path.dsv
+[3.746s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.bash
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.sh
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.zsh
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/local_setup.dsv
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/package.dsv
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/ament_index/resource_index/packages/Rinna
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/cmake/RinnaConfig.cmake
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/cmake/RinnaConfig-version.cmake
+[3.747s] -- Installing: /home/rinna/ros2_ws/install/Rinna/share/Rinna/package.xml
+[3.768s] Invoked command in '/home/rinna/ros2_ws/build/Rinna' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rinna/ros2_ws/install/launch_testing_examples:/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/rinna/ros2_ws/install/examples_rclpy_minimal_service:/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher:/home/rinna/ros2_ws/install/examples_rclpy_minimal_client:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server:/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions:/home/rinna/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/rinna/ros2_ws/build/Rinna
