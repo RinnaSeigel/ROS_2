@@ -4,7 +4,7 @@
   <name>Rinna</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="rinna@todo.todo">rinna</maintainer>
+  <maintainer email="lifestylemy@yandex.ru">rinna</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
