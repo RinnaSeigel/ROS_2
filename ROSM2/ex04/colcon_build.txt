@@ -1,4 +1,179 @@
-Starting >>> Rinna
-Finished <<< Rinna [0.71s]
+WARNING: Package name "Rinna" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[1.059s] WARNING:colcon.colcon_core.prefix_path.colcon:The path '/home/rinna/ros2_ws/install' in the environment variable COLCON_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/launch_testing_examples' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_pointcloud_publisher' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_minimal_subscriber' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_minimal_service' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_minimal_publisher' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_minimal_client' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.059s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_server' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_minimal_action_client' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclpy_executors' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_wait_set' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_multithreaded_executor' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_timer' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_subscriber' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_service' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_publisher' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_client' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_action_server' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_action_client' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/examples_rclcpp_async_client' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.060s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/rinna/ros2_ws/install/turtlesim' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_wait_set' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_multithreaded_executor' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_timer' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_subscriber' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_service' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_publisher' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_composition' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_client' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_action_server' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_minimal_action_client' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_cbg_executor' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/examples_rclcpp_async_client' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.061s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/rinna/ros2_ws/install/turtlesim' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+[1.174s] WARNING:colcon.colcon_core.package_selection:Some selected packages are already built in one or more underlay workspaces:
+	'examples_rclpy_minimal_service' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_action_server' is in: /opt/ros/humble
+	'examples_rclpy_minimal_action_client' is in: /opt/ros/humble
+	'examples_rclcpp_multithreaded_executor' is in: /opt/ros/humble
+	'examples_rclpy_minimal_subscriber' is in: /opt/ros/humble
+	'examples_rclpy_minimal_action_server' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_composition' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_publisher' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_timer' is in: /opt/ros/humble
+	'examples_rclpy_executors' is in: /opt/ros/humble
+	'examples_rclpy_minimal_client' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_subscriber' is in: /opt/ros/humble
+	'examples_rclpy_minimal_publisher' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_action_client' is in: /opt/ros/humble
+	'turtlesim' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_service' is in: /opt/ros/humble
+	'examples_rclcpp_minimal_client' is in: /opt/ros/humble
+If a package in a merged underlay workspace is overridden and it installs headers, then all packages in the overlay must sort their include directories by workspace order. Failure to do so may result in build failures or undefined behavior at run time.
+If the overridden package is used by another package in any underlay, then the overriding package in the overlay must be API and ABI compatible or undefined behavior at run time may occur.
 
-Summary: 1 package finished [0.91s]
+If you understand the risks and want to override a package anyways, add the following to the command line:
+	--allow-overriding examples_rclcpp_minimal_action_client examples_rclcpp_minimal_action_server examples_rclcpp_minimal_client examples_rclcpp_minimal_composition examples_rclcpp_minimal_publisher examples_rclcpp_minimal_service examples_rclcpp_minimal_subscriber examples_rclcpp_minimal_timer examples_rclcpp_multithreaded_executor examples_rclpy_executors examples_rclpy_minimal_action_client examples_rclpy_minimal_action_server examples_rclpy_minimal_client examples_rclpy_minimal_publisher examples_rclpy_minimal_service examples_rclpy_minimal_subscriber turtlesim
+
+This may be promoted to an error in a future release of colcon-override-check.
+Starting >>> Rinna
+Starting >>> examples_rclcpp_async_client
+Starting >>> examples_rclcpp_cbg_executor
+Starting >>> examples_rclcpp_minimal_action_client
+Starting >>> examples_rclcpp_minimal_action_server
+Starting >>> examples_rclcpp_minimal_client
+Starting >>> examples_rclcpp_minimal_composition
+Starting >>> examples_rclcpp_minimal_publisher
+Starting >>> examples_rclcpp_minimal_service
+Starting >>> examples_rclcpp_minimal_subscriber
+Starting >>> examples_rclcpp_minimal_timer
+Starting >>> examples_rclcpp_multithreaded_executor
+Starting >>> examples_rclcpp_wait_set
+Starting >>> examples_rclpy_executors
+Starting >>> examples_rclpy_guard_conditions
+Starting >>> examples_rclpy_minimal_action_client
+--- stderr: Rinna
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/Rinna/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/Rinna where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/Rinna" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+---
+Failed   <<< Rinna [1.41s, exited with code 2]
+--- stderr: examples_rclcpp_async_client
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_async_client/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_async_client where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/services/async_client" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_async_client [1.41s, exited with code 2]
+--- stderr: examples_rclcpp_cbg_executor
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_cbg_executor/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_cbg_executor where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/executors/cbg_executor" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:409: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_cbg_executor [1.42s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_action_client
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_client where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/actions/minimal_action_client" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:390: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_action_client [1.43s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_action_server
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_action_server/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_action_server where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/actions/minimal_action_server" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:308: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_action_server [1.44s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_client
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_client/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_client where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/services/minimal_client" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_client [1.45s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_composition
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_composition/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_composition where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/composition/minimal_composition" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:417: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_composition [1.46s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_publisher
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_publisher/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_publisher where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/topics/minimal_publisher" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:472: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_publisher [1.47s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_service
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_service/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_service where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/services/minimal_service" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_service [1.48s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_subscriber
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_subscriber/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_subscriber where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:731: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_subscriber [1.50s, exited with code 2]
+--- stderr: examples_rclcpp_minimal_timer
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_minimal_timer where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/timers/minimal_timer" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:308: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_minimal_timer [1.51s, exited with code 2]
+--- stderr: examples_rclcpp_multithreaded_executor
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_multithreaded_executor where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/executors/multithreaded_executor" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_multithreaded_executor [1.52s, exited with code 2]
+--- stderr: examples_rclcpp_wait_set
+CMake Error: The current CMakeCache.txt directory /home/rinna/ROS_2/ROSM2/ex03/ros2_ws/build/examples_rclcpp_wait_set/CMakeCache.txt is different than the directory /home/rinna/ros2_ws/build/examples_rclcpp_wait_set where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source directory "/home/rinna/ros2_ws/src/examples/rclcpp/wait_set" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+gmake: *** [Makefile:718: cmake_check_build_system] Error 1
+---
+Failed   <<< examples_rclcpp_wait_set [1.53s, exited with code 2]
+Aborted  <<< examples_rclpy_minimal_action_client [1.51s]
+Aborted  <<< examples_rclpy_guard_conditions [1.52s]
+Aborted  <<< examples_rclpy_executors [1.53s]
+
+Summary: 0 packages finished [2.49s]
+  13 packages failed: Rinna examples_rclcpp_async_client examples_rclcpp_cbg_executor examples_rclcpp_minimal_action_client examples_rclcpp_minimal_action_server examples_rclcpp_minimal_client examples_rclcpp_minimal_composition examples_rclcpp_minimal_publisher examples_rclcpp_minimal_service examples_rclcpp_minimal_subscriber examples_rclcpp_minimal_timer examples_rclcpp_multithreaded_executor examples_rclcpp_wait_set
+  3 packages aborted: examples_rclpy_executors examples_rclpy_guard_conditions examples_rclpy_minimal_action_client
+  13 packages had stderr output: Rinna examples_rclcpp_async_client examples_rclcpp_cbg_executor examples_rclcpp_minimal_action_client examples_rclcpp_minimal_action_server examples_rclcpp_minimal_client examples_rclcpp_minimal_composition examples_rclcpp_minimal_publisher examples_rclcpp_minimal_service examples_rclcpp_minimal_subscriber examples_rclcpp_minimal_timer examples_rclcpp_multithreaded_executor examples_rclcpp_wait_set
+  9 packages not processed

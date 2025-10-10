@@ -1,3 +1,1 @@
-/Rinna_turtle
-/teleop_turtle
-/turtlesim
+/rinna_turtle
