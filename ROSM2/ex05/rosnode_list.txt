@@ -1,3 +1,3 @@
-/a_glushchenko2_turtle
+/Rinna_turtle
 /teleop_turtle
 /turtlesim

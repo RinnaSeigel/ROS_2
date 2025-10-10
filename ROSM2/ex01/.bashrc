@@ -47,12 +47,12 @@ esac
 
 if [ -n "$force_color_prompt" ]; then
     if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
-	# We have color support; assume it's compliant with Ecma-48
-	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
-	# a case would tend to support setf rather than setaf.)
-	color_prompt=yes
+        # We have color support; assume it's compliant with Ecma-48
+        # (ISO/IEC-6429). (Lack of such support is extremely rare, and such
+        # a case would tend to support setf rather than setaf.)
+        color_prompt=yes
     else
-	color_prompt=
+        color_prompt=
     fi
 fi
 
@@ -116,8 +116,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Set ROS2 Humble
 source /opt/ros/humble/setup.bash
-source study/ros2_ws/install/local_setup.bash
-export ROS_LOCALHOST_ONLY=1
-export ROS_DOMAIN_ID=0
-
+source ~/ros2_ws/install/local_setup.bash
