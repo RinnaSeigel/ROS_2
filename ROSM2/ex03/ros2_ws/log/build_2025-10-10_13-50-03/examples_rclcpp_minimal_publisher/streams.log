@@ -1,0 +1,72 @@
+[0.158s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/examples_rclcpp_minimal_publisher
+[2.073s] -- The C compiler identification is GNU 11.4.0
+[2.073s] -- The CXX compiler identification is GNU 11.4.0
+[2.073s] -- Detecting C compiler ABI info
+[2.074s] -- Detecting C compiler ABI info - done
+[2.074s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.074s] -- Detecting C compile features
+[2.075s] -- Detecting C compile features - done
+[2.075s] -- Detecting CXX compiler ABI info
+[2.075s] -- Detecting CXX compiler ABI info - done
+[2.075s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.075s] -- Detecting CXX compile features
+[2.075s] -- Detecting CXX compile features - done
+[2.075s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.075s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.076s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.076s] -- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+[2.082s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.091s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.091s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.120s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.157s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.257s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.264s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.900s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.426s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.361s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.372s] -- Looking for pthread.h
+[4.511s] -- Looking for pthread.h - found
+[4.511s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.642s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.643s] -- Found Threads: TRUE  
+[4.745s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.872s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.875s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.876s] -- Configured cppcheck include dirs: 
+[4.876s] -- Configured cppcheck exclude dirs and/or files: 
+[4.878s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.878s] -- Configured cpplint exclude dirs and/or files: 
+[4.880s] -- Added test 'lint_cmake' to check CMake code style
+[4.884s] -- Added test 'uncrustify' to check C / C++ code style
+[4.884s] -- Configured uncrustify additional arguments: 
+[4.885s] -- Added test 'xmllint' to check XML markup files
+[4.891s] -- Configuring done
+[4.934s] -- Generating done
+[4.946s] -- Build files have been written to: /home/rinna/ros2_ws/build/examples_rclcpp_minimal_publisher
+[4.970s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/examples_rclcpp_minimal_publisher
+[4.989s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j16 -l16
+[5.134s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[5.134s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[5.134s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[5.134s] [ 33%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[5.134s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[5.134s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[27.696s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[27.720s] compilation terminated.
+[27.728s] gmake[2]: *** [CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/build.make:76: CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o] Error 1
+[27.729s] gmake[1]: *** [CMakeFiles/Makefile2:225: CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/all] Error 2
+[27.729s] gmake[1]: *** Waiting for unfinished jobs....
+[49.309s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[49.312s] compilation terminated.
+[49.349s] gmake[2]: *** [CMakeFiles/publisher_lambda.dir/build.make:76: CMakeFiles/publisher_lambda.dir/lambda.cpp.o] Error 1
+[49.371s] gmake[1]: *** [CMakeFiles/Makefile2:147: CMakeFiles/publisher_lambda.dir/all] Error 2
+[201.161s] [ 58%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[201.936s] [ 58%] Built target publisher_not_composable
+[203.291s] [ 66%] [32m[1mLinking CXX executable publisher_wait_for_all_acked[0m
+[203.862s] [ 66%] Built target publisher_wait_for_all_acked
+[205.008s] [ 75%] [32m[1mLinking CXX executable publisher_member_function[0m
+[205.507s] [ 75%] Built target publisher_member_function
+[207.627s] [ 83%] [32m[1mLinking CXX executable publisher_member_function_with_type_adapter[0m
+[208.068s] [ 83%] Built target publisher_member_function_with_type_adapter
+[208.086s] gmake: *** [Makefile:146: all] Error 2

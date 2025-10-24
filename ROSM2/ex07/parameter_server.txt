@@ -1,14 +1,12 @@
-/Leonardo:
-  ros__parameters:
-    background_b: 255
-    background_g: 124
-    background_r: 69
-    qos_overrides:
-      /parameter_events:
-        publisher:
-          depth: 1000
-          durability: volatile
-          history: keep_last
-          reliability: reliable
-    use_sim_time: false
-
+[37;1m2025-10-10 18:23:26.923 [31;1m[[37;1mRTPS_TRANSPORT_SHM[31;1m Error] [37mFailed init_port fastrtps_port7413: open_and_lock_file failed[34;1m -> Function [36mopen_port_internal[m
+/turtlesim:
+  background_b
+  background_g
+  background_r
+  qos_overrides./parameter_events.publisher.depth
+  qos_overrides./parameter_events.publisher.durability
+  qos_overrides./parameter_events.publisher.history
+  qos_overrides./parameter_events.publisher.reliability
+  use_sim_time
+[37;1m2025-10-10 18:23:27.877 [31;1m[[37;1mRTPS_TRANSPORT_SHM[31;1m Error] [37mFailed init_port fastrtps_port7413: open_and_lock_file failed[34;1m -> Function [36mopen_port_internal[m
+Integer value is: 255

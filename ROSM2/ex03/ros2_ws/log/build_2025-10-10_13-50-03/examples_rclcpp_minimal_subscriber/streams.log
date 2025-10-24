@@ -1,0 +1,96 @@
+[0.159s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/examples_rclcpp_minimal_subscriber
+[2.063s] -- The C compiler identification is GNU 11.4.0
+[2.063s] -- The CXX compiler identification is GNU 11.4.0
+[2.063s] -- Detecting C compiler ABI info
+[2.063s] -- Detecting C compiler ABI info - done
+[2.063s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.064s] -- Detecting C compile features
+[2.064s] -- Detecting C compile features - done
+[2.064s] -- Detecting CXX compiler ABI info
+[2.065s] -- Detecting CXX compiler ABI info - done
+[2.065s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.065s] -- Detecting CXX compile features
+[2.065s] -- Detecting CXX compile features - done
+[2.066s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.066s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.066s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.066s] -- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+[2.068s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.076s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.077s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.103s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.142s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.243s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.250s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.885s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.444s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.746s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.755s] -- Looking for pthread.h
+[4.891s] -- Looking for pthread.h - found
+[4.892s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.033s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.033s] -- Found Threads: TRUE  
+[5.121s] -- Found rclcpp_components: 16.0.15 (/opt/ros/humble/share/rclcpp_components/cmake)
+[5.169s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.347s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.348s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.348s] -- Configured cppcheck include dirs: 
+[5.348s] -- Configured cppcheck exclude dirs and/or files: 
+[5.369s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.369s] -- Configured cpplint exclude dirs and/or files: 
+[5.369s] -- Added test 'lint_cmake' to check CMake code style
+[5.376s] -- Added test 'uncrustify' to check C / C++ code style
+[5.377s] -- Configured uncrustify additional arguments: 
+[5.384s] -- Added test 'xmllint' to check XML markup files
+[5.393s] -- Configuring done
+[5.527s] -- Generating done
+[5.559s] -- Build files have been written to: /home/rinna/ros2_ws/build/examples_rclcpp_minimal_subscriber
+[8.413s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/rinna/ros2_ws/src/examples/rclcpp/topics/minimal_subscriber -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rinna/ros2_ws/install/examples_rclcpp_minimal_subscriber
+[8.425s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rinna/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j16 -l16
+[8.723s] [  4%] [32mBuilding CXX object CMakeFiles/subscriber_member_function_with_topic_statistics.dir/member_function_with_topic_statistics.cpp.o[0m
+[8.724s] [  8%] [32mBuilding CXX object CMakeFiles/subscriber_member_function.dir/member_function.cpp.o[0m
+[8.742s] [ 12%] [32mBuilding CXX object CMakeFiles/subscriber_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[8.742s] [ 16%] [32mBuilding CXX object CMakeFiles/subscriber_lambda.dir/lambda.cpp.o[0m
+[8.766s] [ 20%] [32mBuilding CXX object CMakeFiles/subscriber_not_composable.dir/not_composable.cpp.o[0m
+[8.770s] [ 25%] [32mBuilding CXX object CMakeFiles/static_wait_set_subscriber.dir/rclcpp_components/node_main_static_wait_set_subscriber.cpp.o[0m
+[8.788s] [ 29%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber.dir/rclcpp_components/node_main_wait_set_subscriber.cpp.o[0m
+[8.788s] [ 33%] [32mBuilding CXX object CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[8.788s] [ 37%] [32mBuilding CXX object CMakeFiles/subscriber_content_filtering.dir/content_filtering.cpp.o[0m
+[8.789s] [ 41%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/wait_set_subscriber.cpp.o[0m
+[8.798s] [ 45%] [32mBuilding CXX object CMakeFiles/time_triggered_wait_set_subscriber.dir/rclcpp_components/node_main_time_triggered_wait_set_subscriber.cpp.o[0m
+[8.809s] [ 50%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/static_wait_set_subscriber.cpp.o[0m
+[8.845s] [ 54%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/time_triggered_wait_set_subscriber.cpp.o[0m
+[61.173s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[61.178s] compilation terminated.
+[61.178s] gmake[2]: *** [CMakeFiles/wait_set_subscriber_library.dir/build.make:76: CMakeFiles/wait_set_subscriber_library.dir/wait_set_subscriber.cpp.o] Error 1
+[61.178s] gmake[2]: *** Waiting for unfinished jobs....
+[79.240s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[79.257s] compilation terminated.
+[79.257s] gmake[2]: *** [CMakeFiles/subscriber_member_function_with_topic_statistics.dir/build.make:76: CMakeFiles/subscriber_member_function_with_topic_statistics.dir/member_function_with_topic_statistics.cpp.o] Error 1
+[79.257s] gmake[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/subscriber_member_function_with_topic_statistics.dir/all] Error 2
+[79.257s] gmake[1]: *** Waiting for unfinished jobs....
+[90.861s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[90.875s] compilation terminated.
+[90.875s] gmake[2]: *** [CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/build.make:76: CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o] Error 1
+[90.875s] gmake[1]: *** [CMakeFiles/Makefile2:261: CMakeFiles/subscriber_member_function_with_unique_network_flow_endpoints.dir/all] Error 2
+[168.147s] [ 58%] [32m[1mLinking CXX executable time_triggered_wait_set_subscriber[0m
+[168.867s] [ 58%] Built target time_triggered_wait_set_subscriber
+[196.346s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[196.349s] compilation terminated.
+[196.350s] gmake[2]: *** [CMakeFiles/wait_set_subscriber_library.dir/build.make:90: CMakeFiles/wait_set_subscriber_library.dir/static_wait_set_subscriber.cpp.o] Error 1
+[197.966s] [ 62%] [32m[1mLinking CXX executable static_wait_set_subscriber[0m
+[198.662s] [ 62%] Built target static_wait_set_subscriber
+[199.598s] [ 66%] [32m[1mLinking CXX executable wait_set_subscriber[0m
+[200.214s] [ 66%] Built target wait_set_subscriber
+[209.518s] [ 70%] [32m[1mLinking CXX executable subscriber_lambda[0m
+[209.961s] [ 75%] [32m[1mLinking CXX executable subscriber_content_filtering[0m
+[210.339s] [ 75%] Built target subscriber_lambda
+[210.646s] [ 79%] [32m[1mLinking CXX executable subscriber_not_composable[0m
+[210.791s] [ 83%] [32m[1mLinking CXX executable subscriber_member_function[0m
+[210.800s] [ 83%] Built target subscriber_content_filtering
+[211.285s] [ 83%] Built target subscriber_not_composable
+[211.497s] [ 83%] Built target subscriber_member_function
+[211.539s] [ 87%] [32m[1mLinking CXX executable subscriber_member_function_with_type_adapter[0m
+[212.144s] gmake[1]: *** [CMakeFiles/Makefile2:339: CMakeFiles/wait_set_subscriber_library.dir/all] Error 2
+[212.145s] [ 87%] Built target subscriber_member_function_with_type_adapter
+[212.155s] gmake: *** [Makefile:146: all] Error 2

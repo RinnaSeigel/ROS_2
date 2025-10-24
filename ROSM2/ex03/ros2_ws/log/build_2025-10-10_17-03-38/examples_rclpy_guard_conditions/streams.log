@@ -1,0 +1,36 @@
+[2.598s] Invoking command in '/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build
+[3.425s] running develop
+[3.425s] Removing /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[3.433s] Invoked command in '/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions' returned '0': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build
+[3.434s] Invoking command in '/home/rinna/ros2_ws/src/examples/rclpy/guard_conditions': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build install --record /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed install_data --force
+[3.823s] running egg_info
+[3.823s] writing ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[3.824s] writing dependency_links to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[3.824s] writing entry points to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[3.824s] writing requirements to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/requires.txt
+[3.824s] writing top-level names to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/top_level.txt
+[3.827s] reading manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[3.829s] writing manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[3.829s] running build
+[3.829s] running build_py
+[3.829s] creating /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build
+[3.830s] creating /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build/lib
+[3.831s] creating /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions
+[3.831s] copying examples_rclpy_guard_conditions/__init__.py -> /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions
+[3.832s] copying examples_rclpy_guard_conditions/trigger_guard_condition.py -> /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions
+[3.832s] running install
+[3.833s] running install_lib
+[3.834s] creating /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions
+[3.835s] copying /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions/__init__.py -> /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions
+[3.835s] copying /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions/trigger_guard_condition.py -> /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions
+[3.836s] byte-compiling /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions/__init__.py to __init__.cpython-310.pyc
+[3.837s] byte-compiling /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions/trigger_guard_condition.py to trigger_guard_condition.cpython-310.pyc
+[3.838s] running install_data
+[3.838s] copying resource/examples_rclpy_guard_conditions -> /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[3.839s] copying package.xml -> /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/share/examples_rclpy_guard_conditions
+[3.839s] running install_egg_info
+[3.844s] Copying ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info to /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions-0.15.4-py3.10.egg-info
+[3.846s] running install_scripts
+[3.871s] Installing trigger_guard_condition script to /home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[3.872s] writing list of installed files to '/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/install.log'
+[4.114s] Invoked command in '/home/rinna/ros2_ws/src/examples/rclpy/guard_conditions' returned '0': PYTHONPATH=/home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/build install --record /home/rinna/ros2_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed install_data --force

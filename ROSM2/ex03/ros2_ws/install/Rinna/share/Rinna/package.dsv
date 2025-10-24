@@ -1,0 +1,8 @@
+source;share/Rinna/hook/cmake_prefix_path.ps1
+source;share/Rinna/hook/cmake_prefix_path.dsv
+source;share/Rinna/hook/cmake_prefix_path.sh
+source;share/Rinna/local_setup.bash
+source;share/Rinna/local_setup.dsv
+source;share/Rinna/local_setup.ps1
+source;share/Rinna/local_setup.sh
+source;share/Rinna/local_setup.zsh
