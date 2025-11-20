@@ -7,14 +7,36 @@ endif()
 
 # find dependencies
 find_package(ament_cmake REQUIRED)
+find_package(rclcpp REQUIRED)
 find_package(geometry_msgs REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/FullName.msg"
-  "srv/FullNameService.srv"
+  "srv/SummFullName.srv"
   DEPENDENCIES geometry_msgs # Add packages that above messages depend on, in this case geometry_msgs for Sphere.msg
 )
+
+ament_export_dependencies(rosidl_default_runtime)
+
+
+rosidl_get_typesupport_target(cpp_typesupport_target ${PROJECT_NAME} "rosidl_typesupport_cpp")
+
+add_executable(service_name src/service_name.cpp)
+ament_target_dependencies(service_name rclcpp)
+target_link_libraries(service_name ${cpp_typesupport_target})
+
+add_executable(client_name src/client_name.cpp)
+ament_target_dependencies(client_name rclcpp)
+target_link_libraries(client_name ${cpp_typesupport_target})
+
+
+install(TARGETS
+  service_name
+  client_name
+  DESTINATION lib/${PROJECT_NAME})
+
+
 # uncomment the following section in order to fill in
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)

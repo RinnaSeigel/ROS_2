@@ -1,0 +1,38 @@
+[1.327s] Invoking command in '/home/rinna/ROS_2/ROSM2/ex10/src/text_to_cmd_vel': PYTHONPATH=/home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/text_to_cmd_vel build --build-base /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build install --record /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/install.log --single-version-externally-managed install_data
+[1.652s] running egg_info
+[1.653s] creating ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info
+[1.654s] writing ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/PKG-INFO
+[1.655s] writing dependency_links to ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/dependency_links.txt
+[1.655s] writing entry points to ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/entry_points.txt
+[1.656s] writing requirements to ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/requires.txt
+[1.656s] writing top-level names to ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/top_level.txt
+[1.656s] writing manifest file '../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/SOURCES.txt'
+[1.659s] reading manifest file '../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/SOURCES.txt'
+[1.659s] adding license file 'LICENSE'
+[1.660s] writing manifest file '../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info/SOURCES.txt'
+[1.660s] running build
+[1.661s] running build_py
+[1.661s] creating /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build
+[1.662s] creating /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build/lib
+[1.662s] creating /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[1.663s] copying text_to_cmd_vel/__init__.py -> /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[1.664s] copying text_to_cmd_vel/text_to_cmd_vel.py -> /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build/lib/text_to_cmd_vel
+[1.675s] running install
+[1.676s] running install_lib
+[1.677s] creating /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[1.678s] copying /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build/lib/text_to_cmd_vel/__init__.py -> /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[1.678s] copying /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build/lib/text_to_cmd_vel/text_to_cmd_vel.py -> /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel
+[1.679s] byte-compiling /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel/__init__.py to __init__.cpython-310.pyc
+[1.680s] byte-compiling /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel/text_to_cmd_vel.py to text_to_cmd_vel.cpython-310.pyc
+[1.681s] running install_data
+[1.682s] creating /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/share/ament_index
+[1.682s] creating /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/share/ament_index/resource_index
+[1.683s] creating /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/share/ament_index/resource_index/packages
+[1.684s] copying resource/text_to_cmd_vel -> /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/share/ament_index/resource_index/packages
+[1.684s] copying package.xml -> /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/share/text_to_cmd_vel
+[1.685s] running install_egg_info
+[1.687s] Copying ../../build/text_to_cmd_vel/text_to_cmd_vel.egg-info to /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages/text_to_cmd_vel-0.0.0-py3.10.egg-info
+[1.690s] running install_scripts
+[1.719s] Installing text_to_cmd_vel script to /home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/text_to_cmd_vel
+[1.720s] writing list of installed files to '/home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/install.log'
+[1.757s] Invoked command in '/home/rinna/ROS_2/ROSM2/ex10/src/text_to_cmd_vel' returned '0': PYTHONPATH=/home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rinna/ROS_2/ROSM2/ex10/install/text_to_cmd_vel/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/text_to_cmd_vel build --build-base /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/build install --record /home/rinna/ROS_2/ROSM2/ex10/build/text_to_cmd_vel/install.log --single-version-externally-managed install_data

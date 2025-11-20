@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='arina',
-    maintainer_email='a.glushchenko2@g.nsu.ru',
+    maintainer_email='a.seigel@g.nsu.ru',
     description='TODO: Package description',
     license='Apache-2.0',
     tests_require=['pytest'],

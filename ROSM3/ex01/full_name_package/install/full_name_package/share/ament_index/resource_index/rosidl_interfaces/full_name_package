@@ -1,0 +1,6 @@
+msg/FullName.idl
+msg/FullName.msg
+srv/SummFullName.idl
+srv/SummFullName.srv
+srv/SummFullName_Request.msg
+srv/SummFullName_Response.msg
